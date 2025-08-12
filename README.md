@@ -8,7 +8,6 @@ Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvol
 
 ### 📊 Estatísticas do GitHub:
 
-
 <!-- Stats Gerais -->
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=beatriizluizz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -16,7 +15,6 @@ Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvol
 ![Streak de Contribuições](https://nirzak-streak-stats.vercel.app/?user=beatriizluizz&theme=dracula&hide_border=false)<br/>
 
 <!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriizluizz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriizluizz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 
 </div>
-
