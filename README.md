@@ -18,11 +18,5 @@ Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvol
 <!-- Linguagens mais usadas -->
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriizluizz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Contador de visitas -->
-[![](https://visitcount.itsvg.in/api?id=d&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Créditos -->
-<!-- Orgulhosamente criado com GPRM ( https://gprm.itsvg.in ) -->
 </div>
-
 
