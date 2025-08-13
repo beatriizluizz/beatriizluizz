@@ -27,4 +27,4 @@ Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvol
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriizluizz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-![Snake animation](https://raw.githubusercontent.com/beatriizluizz/beatriizluizz/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/beatriizluizz/beatriizluizz/blob/output/github-contribution-grid-snake.svg)
