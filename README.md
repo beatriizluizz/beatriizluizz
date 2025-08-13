@@ -29,3 +29,4 @@ Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvol
 </div>
 ![Snake animation](https://raw.githubusercontent.com/beatriizluizz/beatriizluizz/output/github-contribution-grid-snake.svg)
 
+
