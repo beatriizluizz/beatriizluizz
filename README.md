@@ -10,6 +10,8 @@ Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvol
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-B8860B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+
 </div>
 
 ##
